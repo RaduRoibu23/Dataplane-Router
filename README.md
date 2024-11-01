@@ -59,6 +59,3 @@ A C-based application that simulates a basic router, processing network packets 
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
